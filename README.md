@@ -30,7 +30,7 @@ require 'vendor/autoload.php';
 You're done.
 
 ## Usage
-Set and rename the **protezione-civile-config-blank.php** file you find in the config directory.
+Rename the **protezione-civile-config-blank.php**, configure it with TOKEN string and json filepath.
 
 Se
 
