@@ -57,7 +57,7 @@ Se
 - >= PHP 5.5
 
 ## Detail
-* [Blog](http://giovanni.pirrotta.it/blog/2015/10/09/stazione-amat-di-palermo-ce-un-telegram-per-te/) (Italian)
+* [Blog](http://giovanni.pirrotta.it/blog/2015/10/28/protezione-civile-palermo-telegram-bot/) (Italian)
 
 ## Demo
 
