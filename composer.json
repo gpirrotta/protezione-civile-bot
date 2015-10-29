@@ -1,0 +1,32 @@
+{
+    "name": "gpirrotta/protezione-civile-bot",
+    "type" : "library",
+    "description": "Protezione Civile BOT",
+    "keyworkds": ["opendata", "umap", "telegram", "bot", "php"],
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "GP\\ProtezioneCivileBot\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gpirrotta/telegram-bot-sdk"
+        }
+    ],
+    "require": {
+        "irazasyed/telegram-bot-sdk": "dev-commandext",
+        "league/geotools": "@stable",
+        "monolog/monolog": "^1.17"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "authors": [
+        {
+            "name": "Giovanni Pirrotta",
+            "email": "giovanni.pirrotta@gmail.com"
+        }
+    ]
+}
